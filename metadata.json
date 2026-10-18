@@ -1,0 +1,6 @@
+{
+  "name": "RECLAIM: Take Back Your Time",
+  "description": "A mobile-first digital wellbeing web app helping individuals and families regain control of mindless scrolling through mindful pauses, private on-device voice nudges, AI activity coaching, and shared family pacts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
